@@ -26,6 +26,12 @@ If you enjoy this translation, please consider supporting me on Ko-fi:
 
 [See all my other works here](https://beanutrom.github.io/)
 
+## Updates
+
+* ### v1.1
+  - Fixed the ending credits, and retained the original japanese text.
+  - Fixed the infinite HP cheat to not cause a graphical glitch related to overflowed health values.
+
 ## Licenses
 
 ### License for Reactor7 font
