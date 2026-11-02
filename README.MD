@@ -18,6 +18,12 @@ MD5 5e89e9972bfec07d136ebd331937a1f7
 
 SHA1 4ad2d60c7b2d8192483815d8da99c7ba346d2d1a
 
+## Updates
+
+* ### v1.1
+  - Fixed the ending credits, and retained the original japanese text.
+  - Fixed the infinite HP cheat to not cause a graphical glitch related to overflowed health values.
+
 ## Support
 
 If you enjoy this translation, please consider supporting me on Ko-fi:
@@ -25,6 +31,7 @@ If you enjoy this translation, please consider supporting me on Ko-fi:
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beanutroms)
 
 [See all my other works here](https://beanutrom.github.io/)
+
 
 ## Licenses
 
@@ -35,4 +42,5 @@ under a Creative Commons Attribution Non-commercial Share Alike
 license.
 
 http://fontstruct.com/fontstructors/caveras
+
 http://creativecommons.org/licenses/by-nc-sa/3.0/
